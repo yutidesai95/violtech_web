@@ -1,0 +1,48 @@
+.notification {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    background-color:transparent;
+    border: 4px solid rgb(218, 190, 69);
+    padding: 20px 20px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.2);
+    position: fixed;
+    height: 5rem;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+  }
+  
+  .notification h2 {
+    font-size: 1.3rem;
+    margin: 0;
+  }
+  
+  .notification p {
+    margin: 0;
+    font-size: 1.1rem;
+  }
+  
+  .success {
+    border: 4px solid rgb(55, 110, 30);
+    background-color: transparent;
+    color: black;
+  }
+  
+  .error {
+    border: 4px solid rgb(124, 40, 40);
+    background-color: transparent;
+  
+  }
+  
+  @media (min-width: 768px) {
+    .notification {
+      width: 40rem;
+      left: calc(50% - 20rem);
+      border-top-right-radius: 2px;
+      border-top-left-radius: 2px;
+    }
+  }

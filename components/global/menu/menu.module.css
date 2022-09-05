@@ -293,11 +293,10 @@ html:not([data-scroll='0']) .navbar {
   } 
 
 /* Modal CSS */
-
-
   
   .modalpopup{
-      height: 75vh !important;     
+      height: 75vh !important;   
+      --bs-modal-border-radius: 0rem !important;
   }
   
  .close {

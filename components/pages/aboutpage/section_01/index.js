@@ -33,7 +33,7 @@ return(
 </div>
 <div className={styles.container_section3}>
     <div data-aos="fade-up" className={styles.supportingtext}>
-    <h3>We're a global digital agency.
+    <h3>We&apos;re a global digital agency.
 <br />We provide agile and attractive digital solutions universally <br />over all platforms.</h3>
                        
     </div>

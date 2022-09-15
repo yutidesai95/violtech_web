@@ -30,7 +30,7 @@ function SectionOne() {
     </div>
     <div className={styles.container_section3}>
     <div data-aos="fade-up" className={styles.supportingtext}>
-                        <h3>Let us get talking.</h3>
+                        <h3>Partner with us and let&apos;s get talking.</h3>
                        
     </div>
         <div className={classes.buttonbox}>

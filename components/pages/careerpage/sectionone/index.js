@@ -34,7 +34,7 @@ function SectionOne() {
                        
     </div>
     <div className={classes.buttonbox}>
-                        <Link href='https://in.indeed.com/cmp/Violtech-IT-Solutions-Private-Limited/jobs'>
+                        <Link href='https://www.application.career.viol.tech/'>
                             <a className={styles.btndesign}>View Openings</a>
                         </Link>
     </div>

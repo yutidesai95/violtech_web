@@ -51,9 +51,7 @@ export default function FooterMenu() {
                             <h3>WHAT WE DO</h3>
                         </div>
                         <div className={classes.column__content}> 
-                            <h6>Web Design & Developement</h6>
-                            <h6>Digital Marketing</h6>
-                            <h6>Branding</h6>
+                          
                             <h6>Content Writing</h6>
                             <h6>UI/UX Design</h6>
                         </div>
